@@ -1,0 +1,14 @@
+C:\Projects\Bluebook\Bluebook\obj\Debug\net8.0\Bluebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Bluebook\Bluebook\obj\Debug\net8.0\Bluebook.AssemblyInfoInputs.cache
+C:\Projects\Bluebook\Bluebook\obj\Debug\net8.0\Bluebook.AssemblyInfo.cs
+C:\Projects\Bluebook\Bluebook\obj\Debug\net8.0\Bluebook.csproj.CoreCompileInputs.cache
+C:\Projects\Bluebook\Bluebook\bin\Debug\net8.0\Bluebook.exe
+C:\Projects\Bluebook\Bluebook\bin\Debug\net8.0\Bluebook.deps.json
+C:\Projects\Bluebook\Bluebook\bin\Debug\net8.0\Bluebook.runtimeconfig.json
+C:\Projects\Bluebook\Bluebook\bin\Debug\net8.0\Bluebook.dll
+C:\Projects\Bluebook\Bluebook\bin\Debug\net8.0\Bluebook.pdb
+C:\Projects\Bluebook\Bluebook\obj\Debug\net8.0\Bluebook.dll
+C:\Projects\Bluebook\Bluebook\obj\Debug\net8.0\refint\Bluebook.dll
+C:\Projects\Bluebook\Bluebook\obj\Debug\net8.0\Bluebook.pdb
+C:\Projects\Bluebook\Bluebook\obj\Debug\net8.0\Bluebook.genruntimeconfig.cache
+C:\Projects\Bluebook\Bluebook\obj\Debug\net8.0\ref\Bluebook.dll
